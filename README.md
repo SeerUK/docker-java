@@ -1,2 +1,2 @@
 # docker-java
-Docker Image packaging for Java (openJDK).
+Docker Image packaging for Java (Oracle).
