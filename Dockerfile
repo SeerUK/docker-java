@@ -6,7 +6,7 @@ ENV JAVA_VERSION 8u91
 RUN \
     apt-get update && \
     apt-get install --no-install-recommends -y \
-        openjdk-8-jre=${JAVA_VERSION}* && \
+        openjdk-8-jdk=${JAVA_VERSION}* && \
     apt-get autoremove && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
