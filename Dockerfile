@@ -1,5 +1,5 @@
 FROM ubuntu:xenial
-MAINTAINER Elliot Wright <elliot@elliotwright.co>
+MAINTAINER Elliot Wright <hello@elliotdwright.com>
 
 RUN \
     apt-get update && \
