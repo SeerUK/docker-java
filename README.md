@@ -1,4 +1,4 @@
-docker-java
+Docker Java
 ===========
 
 Docker Image packaging for Java, built on Ubuntu base images.
