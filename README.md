@@ -1,12 +1,12 @@
 Docker Java
 ===========
 
-Docker Image packaging for Java, built on Ubuntu base images.
+Docker Image packaging for Java, built on Ubuntu base images. Available on the [Docker Hub][1].
 
 Usage
 -----
 
-Similar to the [official Java][1] image:
+Similar to the [official Java][2] image:
 
 ```
 FROM seeruk/java:openjdk-java8
@@ -29,10 +29,11 @@ MIT
 Contributing
 ------------
 
-Feel free to open a [pull request][2], or file an [issue][3] on Github. I always welcome contributions as long as they're for the benefit of all (potential) users of this image.
+Feel free to open a [pull request][3], or file an [issue][4] on Github. I always welcome contributions as long as they're for the benefit of all (potential) users of this image.
 
 If you're unsure about anything, feel free to ask about it in an issue before you get your heart set on fixing it yourself.
 
-[1]: https://hub.docker.com/_/java/
-[2]: https://github.com/SeerUK/docker-java/pulls
-[3]: https://github.com/SeerUK/docker-java/issues
+[1]: https://hub.docker.com/r/seeruk/java/
+[2]: https://hub.docker.com/_/java/
+[3]: https://github.com/SeerUK/docker-java/pulls
+[4]: https://github.com/SeerUK/docker-java/issues
