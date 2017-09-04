@@ -1,7 +1,7 @@
 FROM ubuntu:xenial
 MAINTAINER Elliot Wright <hello@elliotdwright.com>
 
-ENV JAVA_VERSION 8u91
+ENV JAVA_VERSION 8u131
 
 RUN \
     apt-get update && \
